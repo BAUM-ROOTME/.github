@@ -1,12 +1,9 @@
-## Hi there 👋
+## BAUM ROOTME 👋
 
-<!--
+👨‍💻 최고의 전문가들이 모여 혁신적인 기술을 창조하고 개발합니다. 👩‍💻
 
-**Here are some ideas to get you started:**
+🌈 바움루트미 다운 접근으로 각각의 최적의 솔루션을 제공합니다. ✨
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙌 우리는 최소한의 원칙으로 최대한의 결과를 도출하려 노력합니다. 🙌
+
+🤔 열린생각과 유연한 태도로 더 나은 서비스를 만듭니다. 💡
